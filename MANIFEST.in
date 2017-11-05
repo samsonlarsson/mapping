@@ -1,0 +1,6 @@
+recursive-include mediadropext/mapping/public *
+recursive-include mediadropext/mapping/templates *
+recursive-include mediadropext/mapping/migrations *.mako
+#recursive-include mediadropext/mapping/i18n *.pot
+#recursive-include mediadropext/mapping/i18n *.po
+#recursive-include mediadropext/mapping/i18n *.mo

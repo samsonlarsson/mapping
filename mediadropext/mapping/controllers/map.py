@@ -5,7 +5,7 @@ from mediadrop.lib.decorators import expose
 
 import googlemaps
 
-gmaps = googlemaps.Client(key='AIzaSyA3mWehI-WUOmQlTs7h5sV339EcL484DHQ')
+gmaps = googlemaps.Client(key='')
 
 # Geo-coding an address
 geocode_result = gmaps.geocode('Siera Leone & Liberia')

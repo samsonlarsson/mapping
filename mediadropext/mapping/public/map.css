@@ -1,17 +1,6 @@
-
-.sample-content h1 {
-	margin-bottom: 0px;
-}
-
-.parameter {
-	margin-top: 1ex;
-	margin-bottom: 1ex;
-}
-
-.sample-content .input-value {
-	font-weight: bold;
-}
-
-.footer {
-	margin-top: 2ex;
+/* defining map size */
+#map {
+    height: 100%;
+    width: 100%;
+    margin-top: 9px;
 }
